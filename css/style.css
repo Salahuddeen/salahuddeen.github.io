@@ -1,0 +1,37 @@
+body{
+      -webkit-font-smoothing: antialiased;
+      font-family:"Play","Helvetica Neue","Helvetica",Arial,sans-serif;
+      color:rgba(143, 192, 207, 0.8);
+      background-color: #000000;
+      background: url("../img/bgCF.jpeg");
+}
+.bg-semi-transparent{
+    background-color:  rgba(72, 161, 177, 0.15);
+    color:rgba(95, 218, 255, 0.945);
+}
+a { 
+    color: rgba(61, 224, 129, 0.8);
+}
+a:hover{
+    color: rgba(5, 136, 59, 0.8);
+    text-decoration: none;
+}
+.card{
+    margin:10px;
+    background-color:rgba(72, 161, 177, 0.10);
+}
+h1, h2{
+    color:rgb(50, 202, 248);
+}
+h3, h5{
+    color:rgba(95, 218, 255, 0.945);
+}
+i{
+    color:rgba(61, 224, 129, 0.8);
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:rgba(95, 218, 255, 0.945);
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: rgba(5, 136, 59, 0.8);
+}
