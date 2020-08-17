@@ -1,2 +1,4 @@
 # salahuddeen.github.io
-My Profile
+A simple site built with HTML, CSS.
+
+© 2020 Copyright: Salahuddeen Ahmed <salahuddeen.ahmed@outlook.com>

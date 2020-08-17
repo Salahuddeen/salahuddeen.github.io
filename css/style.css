@@ -9,7 +9,7 @@ body{
     background-color:  rgba(72, 161, 177, 0.15);
     color:rgba(95, 218, 255, 0.945);
 }
-a { 
+a {
     color: rgba(61, 224, 129, 0.8);
 }
 a:hover{
@@ -34,4 +34,8 @@ i{
 }
 .navbar-dark .navbar-nav .nav-link:hover{
     color: rgba(5, 136, 59, 0.8);
+}
+
+ul {
+  list-style-type: arabic-indic;
 }
